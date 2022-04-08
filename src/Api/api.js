@@ -1,0 +1,1 @@
+exports.api = "https://webkriti123.herokuapp.com"
