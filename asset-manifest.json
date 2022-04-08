@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Ksathwik03/webkriti_front/static/css/main.1f947f44.chunk.css",
+    "main.js": "/Ksathwik03/webkriti_front/static/js/main.5a9053c3.chunk.js",
+    "main.js.map": "/Ksathwik03/webkriti_front/static/js/main.5a9053c3.chunk.js.map",
+    "runtime-main.js": "/Ksathwik03/webkriti_front/static/js/runtime-main.5d118d4e.js",
+    "runtime-main.js.map": "/Ksathwik03/webkriti_front/static/js/runtime-main.5d118d4e.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Ksathwik03/webkriti_front/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.8d92d764.chunk.js": "/Ksathwik03/webkriti_front/static/js/2.8d92d764.chunk.js",
+    "static/js/2.8d92d764.chunk.js.map": "/Ksathwik03/webkriti_front/static/js/2.8d92d764.chunk.js.map",
+    "index.html": "/Ksathwik03/webkriti_front/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Ksathwik03/webkriti_front/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.1f947f44.chunk.css.map": "/Ksathwik03/webkriti_front/static/css/main.1f947f44.chunk.css.map",
+    "static/js/2.8d92d764.chunk.js.LICENSE.txt": "/Ksathwik03/webkriti_front/static/js/2.8d92d764.chunk.js.LICENSE.txt",
+    "static/media/SignUp.a037c141.svg": "/Ksathwik03/webkriti_front/static/media/SignUp.a037c141.svg",
+    "static/media/final.b6076a6b.svg": "/Ksathwik03/webkriti_front/static/media/final.b6076a6b.svg",
+    "static/media/home-page-img-2.c705cab5.svg": "/Ksathwik03/webkriti_front/static/media/home-page-img-2.c705cab5.svg",
+    "static/media/login-img.c1364340.svg": "/Ksathwik03/webkriti_front/static/media/login-img.c1364340.svg",
+    "static/media/logo1.b4805da4.svg": "/Ksathwik03/webkriti_front/static/media/logo1.b4805da4.svg",
+    "static/media/shopping-img.a0765771.svg": "/Ksathwik03/webkriti_front/static/media/shopping-img.a0765771.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d118d4e.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.8d92d764.chunk.js",
+    "static/css/main.1f947f44.chunk.css",
+    "static/js/main.5a9053c3.chunk.js"
+  ]
+}
