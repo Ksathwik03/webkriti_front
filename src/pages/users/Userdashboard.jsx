@@ -60,6 +60,7 @@ function Userdashboard({ match }) {
   }
 
   const vacate = async(req,res) => {
+    
     console.log(roomNo)
     setloading(true)
 
@@ -121,6 +122,7 @@ function Userdashboard({ match }) {
                     <button
                       className="chat"
                       onClick={() => {
+                        setroomNo(parseInt(el.roomNumber));
                         setshowAllocationForm(!showAllocationForm);
                         setblur(!blur);
                       }}
@@ -133,7 +135,7 @@ function Userdashboard({ match }) {
                     <button
                       className="chat"
                       onClick={() => {
-                        setroomNo(el.roomNumber)
+                        setroomNo(parseInt(el.roomNumber));
                         vacate()
                       }}
                     >
@@ -170,10 +172,7 @@ function Userdashboard({ match }) {
             <input
               type="text"
               name="link"
-              placeholder="Room No."
-              onChange={(e) => {
-                setroomNo(parseInt(e.target.value));
-              }}
+              value={roomNo}
               required
             />
           </div>
