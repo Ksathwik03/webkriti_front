@@ -16,8 +16,9 @@ export default function Navbar({match}) {
 
     const logout = ()=>{
     localStorage.removeItem(`token`);
-    localStorage.removeItem('username')
+    localStorage.removeItem('email')
     setToken(localStorage.getItem(`token`));
+    localStorage.removeItem('admin')
     }
 
     return (
